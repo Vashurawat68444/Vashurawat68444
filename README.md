@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning : Artificaial Intelligence | Data science<br/>
+🌱 I’m currently learning : Computer Science and Engineering | Artificial Intelligence | Data science | Java | MySQL | REST API's | Docker.. <br/>
 
 
 ## 🌐 Socials:
